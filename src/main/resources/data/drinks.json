@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Americano",
+    "description": "Strong coffee drink",
+    "price": 2.5,
+    "volume": 250,
+    "category": "COFFEE",
+    "image": "americano.jpg",
+    "dateAdded": "2022-01-01",
+    "dateModified": "2022-01-01",
+    "orderId": 1
+  },
+  {
+    "id": 2,
+    "name": "Green Tea",
+    "description": "Healthy herbal tea",
+    "price": 1.5,
+    "volume": 200,
+    "category": "TEA",
+    "image": "green_tea.jpg",
+    "dateAdded": "2022-01-02",
+    "dateModified": "2022-01-02",
+    "orderId": 2
+  },
+  {
+    "id": 3,
+    "name": "Orange Juice",
+    "description": "Freshly squeezed orange juice",
+    "price": 3.0,
+    "volume": 300,
+    "category": "JUICE",
+    "image": "orange_juice.jpg",
+    "dateAdded": "2022-01-03",
+    "dateModified": "2022-01-03",
+    "orderId": 3
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie",
+    "price": 4.0,
+    "volume": 350,
+    "category": "SMOOTHIE",
+    "image": "strawberry_smoothie.jpg",
+    "dateAdded": "2022-01-04",
+    "dateModified": "2022-01-04",
+    "orderId": 4
+  },
+  {
+    "id": 5,
+    "name": "Vanilla Milkshake",
+    "description": "Creamy vanilla milkshake",
+    "price": 3.5,
+    "volume": 300,
+    "category": "MILKSHAKE",
+    "image": "vanilla_milkshake.jpg",
+    "dateAdded": "2022-01-05",
+    "dateModified": "2022-01-05",
+    "orderId": 5
+  },
+  {
+    "id": 6,
+    "name": "Coca Cola",
+    "description": "Classic soda",
+    "price": 2.0,
+    "volume": 330,
+    "category": "SODA",
+    "image": "coca_cola.jpg",
+    "dateAdded": "2022-01-06",
+    "dateModified": "2022-01-06",
+    "orderId": 6
+  },
+  {
+    "id": 7,
+    "name": "Water",
+    "description": "Bottled water",
+    "price": 1.0,
+    "volume": 500,
+    "category": "WATER",
+    "image": "water.jpg",
+    "dateAdded": "2022-01-07",
+    "dateModified": "2022-01-07",
+    "orderId": 7
+  },
+  {
+    "id": 8,
+    "name": "Lager Beer",
+    "description": "Refreshing lager beer",
+    "price": 3.5,
+    "volume": 500,
+    "category": "BEER",
+    "image": "lager_beer.jpg",
+    "dateAdded": "2022-01-08",
+    "dateModified": "2022-01-08",
+    "orderId": 8
+  },
+  {
+    "id": 9,
+    "name": "Red Wine",
+    "description": "Fine red wine",
+    "price": 5.0,
+    "volume": 150,
+    "category": "WINE",
+    "image": "red_wine.jpg",
+    "dateAdded": "2022-01-09",
+    "dateModified": "2022-01-09",
+    "orderId": 9
+  },
+  {
+    "id": 10,
+    "name": "Whiskey",
+    "description": "Aged whiskey",
+    "price": 7.0,
+    "volume": 50,
+    "category": "WHISKEY",
+    "image": "whiskey.jpg",
+    "dateAdded": "2022-01-10",
+    "dateModified": "2022-01-10",
+    "orderId": 10
+  }
+]

@@ -11,7 +11,7 @@ public record Drink(
         String description,
         Double price,
         Integer volume,
-        String category,
+        Category category,
         String image,
         LocalDate dateAdded,
         LocalDate dateModified,
